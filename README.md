@@ -1,8 +1,5 @@
 # AI-chatbot 🤖
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/sor3a95?style=social)](https://twitter.com/sor3a95)
-[![Last Commit](https://img.shields.io/github/last-commit/AhmedEwis/AI_Assistant)](https://github.com/AhmedEwis/AI_Assistant/commits/main)
-
 
 ### An AI chatbot featuring conversational memory, designed to enable users to discuss their CSV, PDF and TXT data in a more intuitive manner. 📄
 ![AI_Assistant](AI_Assistant.png)
@@ -32,12 +29,12 @@ Follow these steps to set up and run the service locally :
 ### Installation
 Clone the repository :
 
-`git clone https://github.com/AhmedEwis/AI_Assistant.git`
+`git clone https://github.com/outdoorSpirit/AI_Clerk-langchain-.git`
 
 
 Navigate to the project directory :
 
-`cd AI_Assistant`
+`cd AI_Clerk-langchain-`
 
 
 Create a virtual environment :
@@ -58,6 +55,6 @@ Launch the chat service locally :
 #### That's it! The service is now up and running locally. 🤗
 
 ## Contributing 🙌
-Contributions are always welcome! If you want to contribute to this project, please open an issue, submit a pull request or contact me at ahmed.ewis.ml@gmail.com (:
+Contributions are always welcome! If you want to contribute to this project, please open an issue, submit a pull request or contact me at goldrabbit214@gmail.com :
 
 

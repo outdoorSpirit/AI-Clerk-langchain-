@@ -2,18 +2,18 @@ import streamlit as st
 
 
 #Config
-st.set_page_config(layout="wide", page_icon="💬", page_title="AI_Assistant | Chat-Bot 🤖")
+st.set_page_config(layout="wide", page_icon="💬", page_title="AI_Clerk | Chat-Bot 🤖")
 
 
 #Contact
 with st.sidebar.expander("📬 Contact"):
 
     st.write("**GitHub:**",
-"[AhmedEwis](https://github.com/AhmedEwis)")
+"[AhmedEwis](https://github.com/outdoorSpirit)")
 
 
-    st.write("**Twitter:** [@sor3a95](https://twitter.com/sor3a95)")
-    st.write("**Mail** : ahmed.ewis.ml@gmail.com")
+    st.write("**Twitter:** [@sor3a95](https://twitter.com/kceeha)")
+    st.write("**Mail** : goldrabbit214@gmail.com")
     st.write("**Created by Ahmed Ewis**")
 
 
